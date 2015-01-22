@@ -6,4 +6,4 @@
 <li>it has a picture (I think)</li>
 <li>it was made by someone great (check out the README file)</li>
 </ol>
-<img src="https://octodex.github.com/total-eclipse-of-the-octocat/"/>
+<img src="total-eclipse-of-the-octocat.jpg"/>
