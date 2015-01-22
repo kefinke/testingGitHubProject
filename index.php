@@ -1,5 +1,5 @@
 <h1>Hello There</h1>
-<p>Welcome this website</p>
+<p>Welcome to this website</p>
 <h3>Reasons this page is great:</h3>
 <ol>
 <li>it's on github (hopefully)</li>
